@@ -1,12 +1,33 @@
-# React + Vite
+# 📅 Calendar App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple calendar web app built using **React.js** that allows users to view any month, navigate between months, and add events with a specific time and message.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- Shows current month and year
+- Navigate to previous or next month
+- Displays weekdays and correctly aligned dates
+- Add events by selecting a date
+- Event popup with time and message input
+- Stores and displays events with date and time
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Built With
+
+- React JS
+- HTML & CSS
+- JavaScript
+  
+---
+
+📷 Screenshot
+
+![image](https://github.com/user-attachments/assets/92f17b7b-b5b6-4e70-9060-3a763610b622)
+
+![image](https://github.com/user-attachments/assets/d4081e5a-e253-48b6-a007-9c92072fcb73)
+
+
+
